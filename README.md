@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @filipereis
 - 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on AI/ML
+- 💞️ I’m looking to collaborate on AI/ML, python
 - 📫 How to reach me filipe.couto.reis@gmail.com
 
 <!---
